@@ -3,10 +3,10 @@ export default function Produtos(){
           <section>
                <div className="grid grid-cols-6 gap-5">
                     <div>
-                         <img className="w-full h-full" src="/assets/imgs/bebida.png" alt="" />
+                         <img className="w-full h-full" src="../../../public/assets/imgs/bebida.png" alt="" />
                     </div>
                     <div>
-                         <img className="w-full h-full" src="/assets/imgs/cadeira.png" alt="" />
+                         <img className="w-full h-full" src="../../assets/imgs/cadeira.png" alt="" />
                     </div>
                     <div>
                          <img className="w-full h-full" src="/assets/imgs/bebida.png" alt="" />
