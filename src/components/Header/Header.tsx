@@ -1,3 +1,5 @@
+import logo from "../../assets/img/aschadinhos.svg"
+
 export default function Header() {
      return (
           <header className="container mx-auto py-3">
@@ -15,7 +17,7 @@ export default function Header() {
                     </ul>
                </div>
                <div className="flex items-center gap-x-9 py-5">
-                    <img alt="logomarca" src="/assets/imgs/achadinhos.svg" />
+                    <img alt="logomarca" src={logo} />
 
                     <div className="flex justify-between w-full">
                          <form className="relative w-3/6">

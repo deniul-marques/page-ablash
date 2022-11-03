@@ -1,3 +1,13 @@
+import shopee from "../../assets/img/shopee.png";
+import tecnologia from "../../assets/img/tecnologia.png";
+import games from "../../assets/img/game.png";
+import cupom from "../../assets/img/cupom.png";
+import frete from "../../assets/img/frete.png";
+import beleza from "../../assets/img/beleza.png";
+import moda from "../../assets/img/moda.png";
+import moeda from "../../assets/img/moeda.png";
+
+
 export default function MenuIcons(){
      return(
           <div>
@@ -5,7 +15,7 @@ export default function MenuIcons(){
                     <li className="text-center space-y-3">
                          <div className="w-16 mx-auto">
                               <a href="#">
-                                   <img className="w-full h-full" src="/assets/imgs/shopee.png" />
+                                   <img className="w-full h-full" src={shopee} />
 
                               </a>
                          </div>
@@ -14,8 +24,7 @@ export default function MenuIcons(){
                     <li className="text-center space-y-3">
                          <div className="w-16 mx-auto">
                               <a href="#">
-                                   <img className="w-full h-full" src="/assets/imgs/game.png" />
-
+                                   <img className="w-full h-full" src={games} />
                               </a>
                          </div>
                          <p>Games</p>
@@ -23,7 +32,7 @@ export default function MenuIcons(){
                     <li className="text-center space-y-3">
                          <div className="w-16 mx-auto">
                               <a href="#">
-                                   <img className="w-full h-full" src="https://i.postimg.cc/nLLJqN6C/tecnologia.png" />
+                                   <img className="w-full h-full" src={cupom} />
 
                               </a>
                          </div>
@@ -32,7 +41,7 @@ export default function MenuIcons(){
                     <li className="text-center space-y-3">
                          <div className="w-16 mx-auto">
                               <a href="#">
-                                   <img className="w-full h-full" src="/assets/imgs/frete.png" />
+                                   <img className="w-full h-full" src={frete} />
 
                               </a>
                          </div>
@@ -41,7 +50,7 @@ export default function MenuIcons(){
                     <li className="text-center space-y-3">
                          <div className="w-16 mx-auto">
                               <a href="#">
-                                   <img className="w-full h-full" src="/assets/imgs/tecnologia.png" />
+                                   <img className="w-full h-full" src={tecnologia} />
 
                               </a>
                          </div>
@@ -50,7 +59,7 @@ export default function MenuIcons(){
                     <li className="text-center space-y-3">
                          <div className="w-16 mx-auto">
                               <a href="#">
-                                   <img className="w-full h-full" src="/assets/imgs/belezas.png" />
+                                   <img className="w-full h-full" src={beleza} />
 
                               </a>
                          </div>
@@ -59,7 +68,7 @@ export default function MenuIcons(){
                     <li className="text-center space-y-3">
                          <div className="w-16 mx-auto">
                               <a href="#">
-                                   <img className="w-full h-full" src="/assets/imgs/moda.png" />
+                                   <img className="w-full h-full" src={moda} />
 
                               </a>
                          </div>
@@ -68,7 +77,7 @@ export default function MenuIcons(){
                     <li className="text-center space-y-3">
                          <div className="w-16 mx-auto">
                               <a href="#">
-                                   <img className="w-full h-full" src="/assets/imgs/moeda.png" />
+                                   <img className="w-full h-full" src={moeda} />
 
                               </a>
                          </div>
