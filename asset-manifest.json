@@ -1,15 +1,19 @@
 {
   "files": {
     "main.css": "/page-ablash/static/css/main.2ee45cb6.css",
-    "main.js": "/page-ablash/static/js/main.cf722f18.js",
+    "main.js": "/page-ablash/static/js/main.4fadb218.js",
     "static/js/787.f4be310d.chunk.js": "/page-ablash/static/js/787.f4be310d.chunk.js",
+    "static/media/banner-2.png": "/page-ablash/static/media/banner-2.8db653e493fc6991eedd.png",
+    "static/media/promocao.png": "/page-ablash/static/media/promocao.82c994e20f2291d72dca.png",
+    "static/media/relogio.png": "/page-ablash/static/media/relogio.c29feb4e07e7968390b7.png",
+    "static/media/aschadinhos.svg": "/page-ablash/static/media/aschadinhos.9945cf255b8b990f44247dcea4f40c15.svg",
     "index.html": "/page-ablash/index.html",
     "main.2ee45cb6.css.map": "/page-ablash/static/css/main.2ee45cb6.css.map",
-    "main.cf722f18.js.map": "/page-ablash/static/js/main.cf722f18.js.map",
+    "main.4fadb218.js.map": "/page-ablash/static/js/main.4fadb218.js.map",
     "787.f4be310d.chunk.js.map": "/page-ablash/static/js/787.f4be310d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2ee45cb6.css",
-    "static/js/main.cf722f18.js"
+    "static/js/main.4fadb218.js"
   ]
 }
