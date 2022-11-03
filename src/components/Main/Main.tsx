@@ -5,7 +5,7 @@ import MenuIcons from "components/MenuIcons/MenuIcons";
 
 export default function Main() {
      return (
-          <main className="flex container mx-auto">
+          <main className="flex container mx-auto mb-10">
                <Nav />
                <div className="w-full space-y-10">
                     <Banner />
