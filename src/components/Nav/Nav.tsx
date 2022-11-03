@@ -1,6 +1,6 @@
 export default function Nav() {
      return (
-          <nav className="text-sm h-screen space-y-32">
+          <nav className="hidden md:inline text-sm h-screen space-y-32">
                <div className="pr-20">
                     <h2 className="text-2xl font-bold mb-5">Catálogo</h2>
                     <ul className="space-y-8 font-medium">

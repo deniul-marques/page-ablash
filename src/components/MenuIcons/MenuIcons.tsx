@@ -11,7 +11,7 @@ import moeda from "../../assets/img/moeda.png";
 export default function MenuIcons(){
      return(
           <div>
-               <ul className="grid grid-cols-8 justify-center">
+               <ul className="grid grid-cols-4 md:grid-cols-8 justify-center">
                     <li className="text-center space-y-3">
                          <div className="w-16 mx-auto">
                               <a href="#">

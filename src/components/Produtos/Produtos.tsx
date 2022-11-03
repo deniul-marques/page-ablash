@@ -14,10 +14,10 @@ import mascEil from "../../assets/img/masc-f.webp"
 
 export default function Produtos() {
      return (
-          <section className="space-y-5">
+          <section className="space-y-5 px-2">
                <div>
                     <h2 className="py-5 font-semibold text-lg">Roupas Femininas</h2>
-                    <div className="grid grid-cols-6 gap-5 drop-shadow-xl">
+                    <div className="grid grid-cols-2 md:grid-cols-6 gap-5 drop-shadow-xl">
                          <div className="space-y-5">
                               <div className="relative">
                                    <span className="bg-slate-300 px-1 block absolute right-0">Shein</span>

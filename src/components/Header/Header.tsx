@@ -3,7 +3,7 @@ import logo from "../../assets/img/aschadinhos.svg"
 export default function Header() {
      return (
           <header className="container mx-auto py-3">
-               <div className="">
+               <div className="hidden md:block">
                     <ul className="flex gap-5 justify-center">
                          <li className="hover:underline underline-offset-8 decoration-2" ><a href="www.google.com.br"> Central do Vendedor</a></li>|
                          <li className="hover:underline underline-offset-8 decoration-2" ><a href="www.google.com.br">Venda na Shopee</a></li>|
@@ -16,11 +16,11 @@ export default function Header() {
                          </li>
                     </ul>
                </div>
-               <div className="flex items-center gap-x-9 py-5">
-                    <img alt="logomarca" src={logo} />
+               <div className="md:flex items-center gap-x-9">
+                    <img className="mx-auto md:mx-0" alt="logomarca" src={logo} />
 
-                    <div className="flex justify-between w-full">
-                         <form className="relative w-3/6">
+                    <div className="flex justify-between w-full flex-col items-center gap-5 md:gap-0 md:flex-row">
+                         <form className="relative w-2/3 md:w-3/6">
                               <input className="rounded-full border border-gray-200 w-full px-10 py-2 outline outline-none placeholder:text-sm" id="" type="text" name="" placeholder="Procure na loja" />
                               <button className="absolute top-2 left-3">
                                    <span><svg className="h-5 w-5 text-gray-500" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">  <circle cx="11" cy="11" r="8" />  <line x1="21" y1="21" x2="16.65" y2="16.65" /></svg></span>
