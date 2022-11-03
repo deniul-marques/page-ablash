@@ -1,17 +1,16 @@
 {
   "files": {
-    "main.css": "/page-ablash/static/css/main.91fb5374.css",
-    "main.js": "/page-ablash/static/js/main.c7535f64.js",
+    "main.css": "/page-ablash/static/css/main.64f094d5.css",
+    "main.js": "/page-ablash/static/js/main.66b7b461.js",
     "static/js/787.f4be310d.chunk.js": "/page-ablash/static/js/787.f4be310d.chunk.js",
     "static/media/roupa-c.jpg": "/page-ablash/static/media/roupa-c.272897d74c7e1b2806c3.jpg",
     "static/media/banner-2.png": "/page-ablash/static/media/banner-2.8db653e493fc6991eedd.png",
     "static/media/roupa-d.jpg": "/page-ablash/static/media/roupa-d.faad7681720e13ddfb7e.jpg",
     "static/media/roupa-g.jpg": "/page-ablash/static/media/roupa-g.ac8d749bf64a6cbe4d57.jpg",
+    "static/media/banner-1.png": "/page-ablash/static/media/banner-1.3e37e76a26879e8c2431.png",
     "static/media/roupa-b.jpg": "/page-ablash/static/media/roupa-b.67515a4c27ad2e1117a1.jpg",
     "static/media/roupa-f.jpg": "/page-ablash/static/media/roupa-f.c8222cc928fe087d4f27.jpg",
-    "static/media/promocao.png": "/page-ablash/static/media/promocao.82c994e20f2291d72dca.png",
     "static/media/masc-e.webp": "/page-ablash/static/media/masc-e.1d00790436e333ca5e39.webp",
-    "static/media/relogio.png": "/page-ablash/static/media/relogio.c29feb4e07e7968390b7.png",
     "static/media/roupa-e.jpg": "/page-ablash/static/media/roupa-e.ff9b5d468f765ffc87fb.jpg",
     "static/media/masc-c.webp": "/page-ablash/static/media/masc-c.94a23947aba8b9a61bbe.webp",
     "static/media/masc-a.webp": "/page-ablash/static/media/masc-a.33622504ec8939d76d09.webp",
@@ -19,12 +18,12 @@
     "static/media/masc-b.webp": "/page-ablash/static/media/masc-b.c815b3a8e4f1de3211a5.webp",
     "static/media/masc-d.webp": "/page-ablash/static/media/masc-d.4b633e881ff930e14bec.webp",
     "index.html": "/page-ablash/index.html",
-    "main.91fb5374.css.map": "/page-ablash/static/css/main.91fb5374.css.map",
-    "main.c7535f64.js.map": "/page-ablash/static/js/main.c7535f64.js.map",
+    "main.64f094d5.css.map": "/page-ablash/static/css/main.64f094d5.css.map",
+    "main.66b7b461.js.map": "/page-ablash/static/js/main.66b7b461.js.map",
     "787.f4be310d.chunk.js.map": "/page-ablash/static/js/787.f4be310d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.91fb5374.css",
-    "static/js/main.c7535f64.js"
+    "static/css/main.64f094d5.css",
+    "static/js/main.66b7b461.js"
   ]
 }
