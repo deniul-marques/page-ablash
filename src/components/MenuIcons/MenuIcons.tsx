@@ -23,7 +23,7 @@ export default function MenuIcons(){
                     <li className="text-center space-y-3">
                          <div className="w-16 mx-auto">
                               <a href="#">
-                                   <img className="w-full h-full" src="/assets/imgs/cupons.png" />
+                                   <img className="w-full h-full" src="https://i.postimg.cc/nLLJqN6C/tecnologia.png" />
 
                               </a>
                          </div>
